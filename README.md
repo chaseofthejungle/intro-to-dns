@@ -24,3 +24,7 @@
 <hr />
 
 ## 4. <a name="supplemental">Supplemental Resources</a>
+
+* *[Official Red Hat Guide to Configuring a BIND DNS Server](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/deploying_different_types_of_servers/assembly_setting-up-and-configuring-a-bind-dns-server_deploying-different-types-of-servers)*
+* *[Official Cisco Guide to Configuring a DNS Server in Cisco IOS](https://www.cisco.com/c/en/us/support/docs/ip/domain-name-system-dns/24182-reversedns.html)*
+* *[Official Microsoft Guide to Configuring a DNS Server in Windows Server](https://learn.microsoft.com/en-us/windows-server/networking/dns/quickstart-install-configure-dns-server?tabs=powershell)*
